@@ -31,4 +31,4 @@ You can terminate the program by entering 'N' (or 'n') when asked if you want to
 1. **Open a terminal:** Navigate to the directory containing your C++ source file.
 2. **Compile the code:** Use a C++ compiler like g++ or clang to compile the code. For example:
    ```bash
-   g++ -o myprogram.exe myprogram.cpp
+   g++ -o main.exe main.cpp
