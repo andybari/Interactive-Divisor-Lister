@@ -1,4 +1,4 @@
-# Interactive-Divisor-Lister
+# PF_CW_QN2  -  Interactive-Divisor-Lister
 
 **Description:**
 The program prompts for a positive integer, finds its divisors in descending order, and allows repetition. The program terminates on negative/zero input, informs the user of invalid input, and lets them try again.
